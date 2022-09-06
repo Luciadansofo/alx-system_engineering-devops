@@ -1,4 +1,2 @@
-
-ls
-rm *
-
+#!bin/bash
+New Task
